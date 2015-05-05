@@ -1,0 +1,5 @@
+Box model grtaphic from w3schools.
+http://www.w3schools.com/css/css_boxmodel.asp
+
+All comics from xkcd.
+https://xkcd.com/
